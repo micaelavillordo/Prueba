@@ -2,3 +2,10 @@ https://www.smalltalking.net/Papers/stDesign/stDesign.htm
 http://fluxens.com/unittesting.html
 https://esj.com/articles/2012/09/24/better-unit-testing.aspx
 https://media.pragprog.com/articles/jan_03_enbug.pdf
+https://martinfowler.com/bliki/GetterEradicator.html
+https://sourcemaking.com/refactoring/replace-conditional-with-polymorphism
+https://campus.fi.uba.ar/pluginfile.php/230628/mod_page/content/6/para_que_sirve_un_modelo%20%281%29.pdf
+https://campus.fi.uba.ar/pluginfile.php/230628/mod_page/content/6/Pruebas2018.pdf
+https://www.martinfowler.com/articles/continuousIntegration.html
+http://sedici.unlp.edu.ar/bitstream/handle/10915/4216/Documento_completo.pdf?sequence=1&isAllowed=y
+https://www.oracle.com/technical-resources/articles/java/javareflection.html
