@@ -1,1 +1,4 @@
-holaaa estoy cambiando
+https://www.smalltalking.net/Papers/stDesign/stDesign.htm
+http://fluxens.com/unittesting.html
+https://esj.com/articles/2012/09/24/better-unit-testing.aspx
+https://media.pragprog.com/articles/jan_03_enbug.pdf
