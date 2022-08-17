@@ -1,4 +1,4 @@
-Links útiles POO (Algo 3)
+Links útiles POO (Algo 3):
 
 https://www.smalltalking.net/Papers/stDesign/stDesign.htm
 http://fluxens.com/unittesting.html
